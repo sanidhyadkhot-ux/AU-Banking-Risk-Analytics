@@ -182,9 +182,5 @@ Create relationships:
 - `dim_advisor[advisor_id]` → `fact_banking_relationship[advisor_id]`
 - `dim_date[date]` → `fact_banking_relationship[date]`
 
-## Business Impact
-- Enables lenders to prioritise high-risk applicants
-- Supports state-level portfolio risk review
-- Improves lending visibility across Retail, Business, Private Bank, and Institutional divisions
-- Adds an ML-style risk scoring layer suitable for Big 4 and Australian banking analytics interviews
+
 
