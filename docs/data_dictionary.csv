@@ -1,0 +1,10 @@
+field,description
+client_id,Unique customer identifier
+state,Australian state / territory code
+bank_division,"Retail, Business, Private Bank, Institutional"
+loan_amount,Estimated lending exposure in AUD
+deposit_amount,Estimated deposit balance in AUD
+credit_score,Synthetic creditworthiness score based on profile risk
+default_flag,Target variable: 1 indicates high/default risk
+risk_score,0-100 risk score; red/amber/green dashboard segmentation
+financial_year,Australian financial year July-June
